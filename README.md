@@ -2,10 +2,10 @@
 # Predicting Positive Reception of Women’s Clothing Categories by Age Group Using E-Commerce Reviews
 
 ## Course Information
-- **Course Name:** [Insert Course Name]
-- **Course Code:** [Insert Course Code]
-- **Professor:** [Insert Professor's Full Name]
-- **Institution:** [Insert Institution Name]
+- **Course Name:** [Sentiment Analysis and Text Mining]
+- **Course Code:** [BAN200NAA]
+- **Professor:** [William Dick]
+- **Institution:** [Seneca Polytechnic / Business Analytics / Summer 2025]
 
 ---
 
@@ -89,22 +89,6 @@ The dataset used for this analysis is publicly available on Kaggle:
 - Final report summarizing methodology, findings, and business recommendations
 
 ---
-
-## Repository Structure
-```
-├── data
-│   ├── Womens Clothing E-Commerce Reviews 2.csv
-│   └── Womens_Clothing_Cleaned.csv
-├── scripts
-│   ├── data_cleaning_and_analysis.py
-│   ├── eda_and_sentiment_analysis.py
-│   └── predictive_model.py (planned)
-├── visuals
-│   ├── rating_distribution.png
-│   ├── recommendation_by_age.png
-│   └── sentiment_by_age.png
-├── README.md
-└── final_report.docx
 ```
 
 ---
